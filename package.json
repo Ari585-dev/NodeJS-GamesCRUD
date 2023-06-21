@@ -1,6 +1,6 @@
 {
-  "name": "c-digos",
-  "version": "0.0.0",
+  "name": "Ari585-dev",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
