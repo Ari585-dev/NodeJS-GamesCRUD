@@ -9,3 +9,7 @@ se utilizó el motor de plantillas EJS junto al framework Boostrap
 para hacer un prototipado rápido y mostrar una vista fugaz del funcionamiento.
 Por favor revisar bien el apartado de "controllers" y "routes" para agregar las
 rutas manualmente en el navegador.
+
+#SRC
+![Index edit delete](https://github.com/Ari585-dev/NodeJS-GamesCRUD/assets/129306585/a9f1316f-ca5b-41ee-9f5b-9313439eadca)
+
